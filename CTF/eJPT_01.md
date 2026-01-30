@@ -6,7 +6,7 @@
 
 ---
 
-![[Pasted image 20260130141552.png]]
+![](assets/images/eJPT_01-1.png)
 
 ---
 ### 1. Reconhecimento de Rede interna e Alvo
