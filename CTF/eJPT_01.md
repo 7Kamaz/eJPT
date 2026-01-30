@@ -5,6 +5,10 @@
 #nmap #Whatweb #wpscan #dirb  
 
 ---
+
+![[Pasted image 20260130141552.png]]
+
+---
 ### 1. Reconhecimento de Rede interna e Alvo
 
 Identificação do ambiente e validação de conectividade com o alvo.
