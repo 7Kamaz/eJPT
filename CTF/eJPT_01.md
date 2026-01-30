@@ -94,5 +94,7 @@ wget -m http://target.ine.local
 grep -ri "FLAG" ~/target.ine.local/
 ```
 
+*Aqui, encontrei a FLAG 5 com os métodos acima*
+
 ---
 ---
